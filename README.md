@@ -1,7 +1,7 @@
 # EX - 5 Asset-Oriented Risk Assessment Of Storage Assets In AWS And Azure
 
-## Santhosh K
-## 212223100050
+## Name: Santhosh K
+## RegNo: 212223100050
 
 ## Aim
 To perform an asset-oriented risk assessment of cloud storage assets including:
